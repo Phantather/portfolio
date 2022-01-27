@@ -1,0 +1,104 @@
+.about {
+  background: #414141;
+  padding: 40px 0 114px;
+  position: relative;
+
+  &__circle-white {
+    position: absolute;
+    width: 792px;
+    height: 792px;
+    border-radius: 50%;
+    left: 5px;
+    border: 80px solid #E4E4E4;
+    filter: drop-shadow(0px 4px 70px rgba(255, 255, 255, 0.25));
+  }
+
+  &__circle-blue {
+    position: absolute;
+    bottom: 15px;
+    right: 10%;
+    width: 486px;
+    height: 486px;
+    border: 55px solid #00C4F0;
+    border-radius: 50%;
+    box-sizing: border-box;
+    filter: drop-shadow(0px 4px 70px rgba(0, 193, 236, 0.25));
+  }
+
+  &__circle-yellow {
+    position: absolute;
+    top: 0;
+    right: 12%;
+    width: 356px;
+    height: 356px;
+    border: 34px solid #E2A200;
+    border-radius: 50%;
+    box-sizing: border-box;
+    filter: drop-shadow(0px 4px 70px rgba(226, 162, 0, 0.25));
+  }
+
+  &__block {
+    display: flex;
+    justify-content: center;
+    position: relative;
+  }
+
+  &__image{
+    width: 330px;
+    height: 378px;
+    background: #2C2C2C;
+    border-radius: 14px;
+    position: absolute;
+    left: 45px;
+    top: -40px;
+  }
+
+  &__image2 {
+    width: 307px;
+    height: 339px;
+    background: #2C2C2C;
+    border-radius: 14px;
+    position: absolute;
+    left: 55px;
+    bottom: -40px;
+  }
+
+  &__info {
+    width: 496px;
+    height: 822px;
+    background: #2C2C2C;
+    border-radius: 14px;
+    padding: 63px;
+    position: relative;
+    &-title {
+      position: absolute;
+      left: 11%;
+      top: -3%;
+      font-family: "Avenir Next Cyr", sans-serif;
+      font-weight: normal;
+      font-size: 48px;
+      line-height: 54px;
+      color: #E4E4E4;
+      text-transform: uppercase;
+    }
+    &-text {
+      font-family: Montserrat, sans-serif;
+      font-weight: 300;
+      font-size: 20px;
+      line-height: 24px;
+      letter-spacing: 0.01em;
+      color: #FFFFFF;
+    }
+  }
+
+  &__image3 {
+    width: 310px;
+    height: 485px;
+    background: #2C2C2C;
+    border-radius: 14px;
+    position: absolute;
+    right: 55px;
+    top: 20%;
+  }
+
+}

@@ -1,0 +1,113 @@
+.portfolio {
+  padding: 100px 0 150px;
+  background-color: #2A2A2A;
+  &__title {
+    font-family: "Avenir Next Cyr", sans-serif;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 54px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 50px;
+  }
+  &__content{
+    width: 970px;
+    height: 600px;
+    background: rgba(40, 48, 54, 0.2);
+    box-shadow: 0 4px 15px rgba(27, 27, 27, 0.63);
+    border-radius: 29px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    padding: 50px;
+    column-gap: 20px;
+    position: relative;
+  }
+  &__image-block{
+    width: calc(70% - 14px);
+    img {
+      border-radius: 29px;
+    }
+  }
+  &__info {
+    width: calc(30% - 6px);
+    text-align: center;
+    &-title {
+      font-family: Montserrat, sans-serif;
+      font-style: normal;
+      font-weight: 300;
+      font-size: 24px;
+      line-height: 29px;
+      color: #FFFFFF;
+    }
+    &-text {
+      font-family: Montserrat, sans-serif;
+      font-style: normal;
+      font-weight: 300;
+      font-size: 18px;
+      line-height: 21px;
+      color: #FFFFFF;
+      margin: 25px 0;
+    }
+    &-link {
+      font-family: Montserrat, sans-serif;
+      font-style: normal;
+      font-weight: 300;
+      font-size: 18px;
+      line-height: 21px;
+      color: #E2A100;
+    }
+  }
+  &__arrow_prev{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 0;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: .8s;
+    &:hover {
+      width: 60px;
+      height: 60px;
+      border-radius: 50%;
+      background: linear-gradient(87.32deg, #E2A300 4.47%, #E29500 95.53%);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      transition: .8s;
+    }
+
+  }
+  &__arrow_next{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 0;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: .8s;
+    &:hover {
+      width: 60px;
+      height: 60px;
+      border-radius: 50%;
+      background: linear-gradient(87.32deg, #E2A300 4.47%, #E29500 95.53%);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      transition: .8s;
+    }
+  }
+}

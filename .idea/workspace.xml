@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64b335ca-f71b-4203-bb0d-5b89ab33164c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="24BaqNbp4QZNrnqBSjjMx9XRiPQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\portfolo\src\js" />
+      <recent name="C:\Users\user\Desktop\portfolo\src\libs" />
+      <recent name="C:\Users\user\Desktop\portfolo\src\images\portfolio" />
+      <recent name="C:\Users\user\Desktop\portfolo\src\images\hero" />
+      <recent name="C:\Users\user\Desktop\portfolo\src\fonts\avenir" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64b335ca-f71b-4203-bb0d-5b89ab33164c" name="Default Changelist" comment="" />
+      <created>1643106623628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643106623628</updated>
+      <workItem from="1643106628595" duration="5797000" />
+      <workItem from="1643114554068" duration="2144000" />
+      <workItem from="1643179830904" duration="689000" />
+      <workItem from="1643189980847" duration="6434000" />
+      <workItem from="1643263757394" duration="5069000" />
+      <workItem from="1643269037446" duration="1199000" />
+      <workItem from="1643274153773" duration="1341000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="437" y="25" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1643109585925">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="437" y="25" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1643109585925" />
+    <state x="317" y="142" key="EditFileWatcherDialog" timestamp="1643106745704">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="317" y="142" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1643106745704" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1643268993848">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1643268993848" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1643270055983">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1643270055983" />
+  </component>
+</project>
