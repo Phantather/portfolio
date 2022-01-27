@@ -38,22 +38,11 @@
     width: 60px;
     height: 60px;
     border-radius: 50%;
-    background: transparent;
+    background: linear-gradient(87.32deg, #E2A300 4.47%, #E29500 95.53%);
     display: flex;
     justify-content: center;
     align-items: center;
     cursor: pointer;
-    transition: .8s;
-    &:hover {
-      width: 60px;
-      height: 60px;
-      border-radius: 50%;
-      background: linear-gradient(87.32deg, #E2A300 4.47%, #E29500 95.53%);
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      transition: .8s;
-    }
   }
 
 }

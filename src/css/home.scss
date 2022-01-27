@@ -1,10 +1,13 @@
 .home {
   padding: 58px 0;
   background-color: #2A2A2A;
-  &__row{
+
+  &__row {
     display: flex;
     align-items: center;
+    position: relative;
   }
+
   &__text {
     font-family: "Avenir Next Cyr", sans-serif;
     font-weight: 600;
@@ -13,6 +16,7 @@
     color: #E4E4E4;
     margin-bottom: 27px;
   }
+
   &__name {
     font-family: "Avenir Next Cyr", sans-serif;
     font-weight: bold;
@@ -20,6 +24,7 @@
     line-height: 82px;
     color: #E4E4E4;
   }
+
   &__info {
     font-family: Montserrat, sans-serif;
     font-weight: 300;
@@ -28,6 +33,7 @@
     color: #E4E4E4;
     margin: 27px 0;
   }
+
   &__contact-btn {
     padding: 14px 40px;
     background: linear-gradient(87.32deg, #E2A300 4.47%, #E29500 95.53%);
@@ -40,8 +46,22 @@
     font-size: 18px;
     line-height: 20px;
   }
+
   &__box {
-    width: 574px;
-    height: 574px;
+    z-index: 2;
+    position: relative;
+    bottom: -65px;
+  }
+
+  &__circle {
+    position: absolute;
+    width: 450px;
+    height: 450px;
+    border-radius: 50%;
+    right: 85px;
+    top: 40px;
+    border: 40px solid #00C4F0;
+    box-sizing: border-box;
+    filter: drop-shadow(0px 0px 152px rgba(0, 196, 240, 0.42));
   }
 }
