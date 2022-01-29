@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64b335ca-f71b-4203-bb0d-5b89ab33164c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/images/hero/20201228_181620.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/home.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/portfolio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/portfolio/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +35,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../work/Maksat/вт(18-00)/js/promise1-2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
   </component>
   <component name="RecentsManager">
@@ -70,7 +67,10 @@
       <workItem from="1643263757394" duration="5069000" />
       <workItem from="1643269037446" duration="1199000" />
       <workItem from="1643274153773" duration="1943000" />
-      <workItem from="1643276942075" duration="4543000" />
+      <workItem from="1643276942075" duration="5166000" />
+      <workItem from="1643458294882" duration="1301000" />
+      <workItem from="1643459664117" duration="30000" />
+      <workItem from="1643460185599" duration="597000" />
     </task>
     <servers />
   </component>
@@ -82,14 +82,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="437" y="25" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1643109585925" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1643460980648">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1643460980648" />
     <state x="317" y="142" key="EditFileWatcherDialog" timestamp="1643106745704">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="317" y="142" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1643106745704" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1643277692709">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1643459693252">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1643277692709" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1643459693252" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1643270055983">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
