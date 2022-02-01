@@ -99,7 +99,7 @@ a {
 .home__box {
   z-index: 2;
   position: relative;
-  bottom: -65px;
+  bottom: -62px;
 }
 .home__circle {
   position: absolute;
@@ -107,7 +107,7 @@ a {
   height: 450px;
   border-radius: 50%;
   right: 85px;
-  top: 40px;
+  top: 33px;
   border: 40px solid #00C4F0;
   box-sizing: border-box;
   filter: drop-shadow(0px 0px 152px rgba(0, 196, 240, 0.42));
@@ -130,7 +130,6 @@ a {
 }
 .skills__block {
   width: calc(25% - 30px);
-  left: 365px;
   background: #2A2A2A;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.47);
   border-radius: 29px;
@@ -153,6 +152,87 @@ a {
   font-size: 24px;
   line-height: 29px;
   color: #E4E4E4;
+}
+
+.works {
+  padding: 40px 0 114px;
+}
+.works__content {
+  display: none;
+}
+.works__content_active {
+  display: flex;
+  justify-content: center;
+}
+.works__title {
+  font-family: "Avenir Next Cyr", sans-serif;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 54px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  margin-bottom: 50px;
+}
+.works__list {
+  margin: 60px 0 80px;
+  display: flex;
+  justify-content: center;
+  column-gap: 50px;
+}
+.works__list-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  column-gap: 9px;
+  font-family: "Avenir Next Cyr", sans-serif;
+  font-size: 20px;
+  line-height: 24px;
+  color: #E4E4E4;
+  padding: 10px 70px;
+  transition: 0.3s;
+  cursor: pointer;
+  border: 1px solid transparent;
+}
+.works__list-item_active {
+  color: #00C4F0;
+  border: 1px solid #00C4F0;
+}
+.works__list-item:hover {
+  color: #00C4F0;
+  transition: 0.3s;
+  border: 1px solid #00C4F0;
+}
+.works__card {
+  width: 600px;
+  background: #2A2A2A;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.47);
+  border-radius: 15px;
+  padding: 50px 30px;
+  display: flex;
+  align-items: center;
+  color: #FFFFFF;
+}
+.works__card-title {
+  font-family: Montserrat, sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 29px;
+}
+.works__card-descr {
+  font-family: Montserrat, sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 21px;
+  margin: 25px 0;
+}
+.works__card-item {
+  width: 50%;
+  margin-right: 50px;
+}
+.works__card-company {
+  background: #2C2C2C;
 }
 
 .about {
@@ -370,6 +450,7 @@ a {
 .footer__nav {
   position: relative;
   display: flex;
+  align-items: center;
   column-gap: 115px;
 }
 .footer__list {
@@ -393,6 +474,43 @@ a {
 }
 .footer__link:hover {
   color: #E2A100;
+}
+.footer__form {
+  width: 300px;
+  position: relative;
+}
+.footer__form-input {
+  width: 100%;
+  padding: 20px 15px;
+  border: 1px solid #00C4F0;
+  border-radius: 8px;
+  outline: none;
+  background: transparent;
+  font-family: Montserrat, sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 15px;
+  color: #E2A100;
+}
+.footer__form-input::placeholder {
+  color: #E2A100;
+}
+.footer__form-btn {
+  position: absolute;
+  right: 5px;
+  top: 50%;
+  transform: translateY(-50%);
+  padding: 12px;
+  background: linear-gradient(87.32deg, #E2A300 4.47%, #E29500 95.53%);
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  font-family: "Avenir Next Cyr", sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 20px;
+  color: #2C2C2C;
 }
 .footer__up {
   position: absolute;
