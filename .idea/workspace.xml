@@ -4,13 +4,11 @@
     <list default="true" id="64b335ca-f71b-4203-bb0d-5b89ab33164c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/home.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/skills.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/skills.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/porfolio.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/porfolio.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/works.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/works.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/portfolio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/portfolio/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +41,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -51,9 +50,9 @@
       <recent name="C:\Users\user\Desktop\portfolo\src\images\hero" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\portfolo\src\images\portfolio" />
       <recent name="C:\Users\user\Desktop\portfolo\src\js" />
       <recent name="C:\Users\user\Desktop\portfolo\src\libs" />
-      <recent name="C:\Users\user\Desktop\portfolo\src\images\portfolio" />
       <recent name="C:\Users\user\Desktop\portfolo\src\images\hero" />
       <recent name="C:\Users\user\Desktop\portfolo\src\fonts\avenir" />
     </key>
@@ -84,6 +83,12 @@
       <workItem from="1643550493548" duration="34000" />
       <workItem from="1643691161058" duration="6731000" />
       <workItem from="1643700865349" duration="3039000" />
+      <workItem from="1643706155439" duration="5076000" />
+      <workItem from="1643725276425" duration="33000" />
+      <workItem from="1643885793926" duration="1574000" />
+      <workItem from="1644303061980" duration="595000" />
+      <workItem from="1644308226026" duration="196000" />
+      <workItem from="1645178465632" duration="3524000" />
     </task>
     <task id="LOCAL-00001" summary="create new page">
       <created>1643461152960</created>
@@ -122,10 +127,15 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="317" y="142" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1643106745704" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1643700460183">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1644308422550">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1643700460183" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1644308422550" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1643725311839" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1645181458704">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1645181458704" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1643270055983">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

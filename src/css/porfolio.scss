@@ -12,27 +12,22 @@
     margin-bottom: 50px;
   }
   &__content{
-    width: 970px;
-    height: 600px;
+    width: 800px;
     background: rgba(40, 48, 54, 0.2);
     box-shadow: 0 4px 15px rgba(27, 27, 27, 0.63);
     border-radius: 29px;
-    margin: 0 auto;
-    display: flex;
-    align-items: center;
     padding: 50px;
-    column-gap: 20px;
-    position: relative;
+    margin: 0 auto;
+    text-align: center;
   }
   &__image-block{
-    width: calc(70% - 14px);
     img {
+      width: 80%;
       border-radius: 29px;
     }
   }
   &__info {
-    width: calc(30% - 6px);
-    text-align: center;
+    margin-top: 15px;
     &-title {
       font-family: Montserrat, sans-serif;
       font-style: normal;
@@ -40,6 +35,7 @@
       font-size: 24px;
       line-height: 29px;
       color: #FFFFFF;
+      margin-bottom: 20px;
     }
     &-text {
       font-family: Montserrat, sans-serif;

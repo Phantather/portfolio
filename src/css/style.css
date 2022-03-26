@@ -169,9 +169,10 @@ a {
   font-weight: normal;
   font-size: 48px;
   line-height: 54px;
+  text-align: center;
   text-transform: uppercase;
   color: #FFFFFF;
-  margin-bottom: 50px;
+  margin-bottom: 80px;
 }
 .works__list {
   margin: 60px 0 80px;
@@ -203,13 +204,14 @@ a {
   border: 1px solid #00C4F0;
 }
 .works__card {
-  width: 600px;
+  width: 800px;
   background: #2A2A2A;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.47);
   border-radius: 15px;
   padding: 50px 30px;
   display: flex;
   align-items: center;
+  justify-content: space-between;
   color: #FFFFFF;
 }
 .works__card-title {
@@ -228,8 +230,7 @@ a {
   margin: 25px 0;
 }
 .works__card-item {
-  width: 50%;
-  margin-right: 50px;
+  width: 70%;
 }
 .works__card-company {
   background: #2C2C2C;
@@ -346,27 +347,20 @@ a {
   margin-bottom: 50px;
 }
 .portfolio__content {
-  width: 970px;
-  height: 600px;
+  width: 800px;
   background: rgba(40, 48, 54, 0.2);
   box-shadow: 0 4px 15px rgba(27, 27, 27, 0.63);
   border-radius: 29px;
-  margin: 0 auto;
-  display: flex;
-  align-items: center;
   padding: 50px;
-  column-gap: 20px;
-  position: relative;
-}
-.portfolio__image-block {
-  width: calc(70% - 14px);
+  margin: 0 auto;
+  text-align: center;
 }
 .portfolio__image-block img {
+  width: 80%;
   border-radius: 29px;
 }
 .portfolio__info {
-  width: calc(30% - 6px);
-  text-align: center;
+  margin-top: 15px;
 }
 .portfolio__info-title {
   font-family: Montserrat, sans-serif;
@@ -375,6 +369,7 @@ a {
   font-size: 24px;
   line-height: 29px;
   color: #FFFFFF;
+  margin-bottom: 20px;
 }
 .portfolio__info-text {
   font-family: Montserrat, sans-serif;
