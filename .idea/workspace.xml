@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="64b335ca-f71b-4203-bb0d-5b89ab33164c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/porfolio.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/porfolio.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/works.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/works.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/portfolio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/portfolio/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../portfolio" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -89,6 +83,8 @@
       <workItem from="1644303061980" duration="595000" />
       <workItem from="1644308226026" duration="196000" />
       <workItem from="1645178465632" duration="3524000" />
+      <workItem from="1648289644419" duration="574000" />
+      <workItem from="1648290416083" duration="323000" />
     </task>
     <task id="LOCAL-00001" summary="create new page">
       <created>1643461152960</created>
@@ -127,11 +123,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="317" y="142" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1643106745704" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1644308422550">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1648290741006">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1644308422550" />
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1643725311839" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1648290741006" />
     <state x="184" y="6" key="SettingsEditor" timestamp="1645181458704">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
